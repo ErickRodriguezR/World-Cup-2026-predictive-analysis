@@ -1,0 +1,49 @@
+country_name,fifa_code,fifa_rank,group_stage_goals,goals_conceded,goal_differential,wins_historical,previous_world_cups,win_percentage_historical
+France,FRA,1,10,2,8,29,14,47.5
+Argentina,ARG,2,8,1,7,44,16,54.3
+Mexico,MEX,3,6,0,6,14,15,25.9
+Netherlands,NED,4,10,4,6,29,10,53.7
+Brazil,BRA,5,7,1,6,71,20,65.7
+Germany,GER,11,10,4,6,72,19,54.06666666666666
+Spain,ESP,6,5,0,5,29,14,49.2
+Portugal,POR,16,6,1,5,13,6,50.0
+Canada,CAN,20,8,3,5,0,1,0.0
+United States,USA,12,8,4,4,0,0,0.0
+Japan,JPN,17,7,3,4,4,5,23.5
+Belgium,BEL,18,6,2,4,15,12,34.9
+England,ENG,8,6,2,4,26,14,41.9
+Switzerland,SUI,7,7,3,4,11,10,32.4
+Morocco,MAR,9,6,3,3,2,4,15.4
+Colombia,COL,10,4,1,3,8,5,40.0
+Egypt,EGY,19,5,3,2,0,2,0.0
+Senegal,SEN,31,8,6,2,2,1,40.0
+Ivory Coast,CIV,13,4,2,2,0,0,0.0
+Congo DR,COD,21,4,3,1,0,1,0.0
+Norway,NOR,14,8,7,1,2,3,25.0
+Cape Verde Islands,CPV,33,2,2,0,0,0,0.0
+Iran,IRN,32,3,3,0,0,0,0.0
+Ghana,GHA,26,2,2,0,4,3,33.3
+Ecuador,ECU,25,2,2,0,4,3,40.0
+Australia,AUS,24,2,2,0,2,4,15.4
+Sweden,SWE,22,7,7,0,16,11,34.8
+Croatia,CRO,15,5,5,0,7,4,43.8
+Austria,AUT,23,6,6,0,12,7,41.4
+Bosnia-Herzegovina,BIH,27,5,6,-1,0,0,0.0
+South Korea,KOR,34,2,3,-1,0,0,0.0
+Uruguay,URU,37,3,4,-1,20,12,38.5
+South Africa,RSA,28,2,3,-1,2,3,22.2
+Paraguay,PAR,30,2,4,-2,7,8,25.9
+Algeria,ALG,29,5,7,-2,3,4,21.4
+Turkey,TUR,35,3,5,-2,0,0,0.0
+Scotland,SCO,36,1,4,-3,4,8,17.4
+Saudi Arabia,KSA,38,1,5,-4,2,4,15.4
+Czechia,CZE,39,2,6,-4,12,9,35.0
+Panama,PAN,43,0,4,-4,0,0,0.0
+Jordan,JOR,44,3,8,-5,0,0,0.0
+New Zealand,NZL,40,4,10,-6,0,2,0.0
+Haiti,HAI,45,2,8,-6,0,1,0.0
+Qatar,QAT,41,2,10,-8,0,0,0.0
+Curaçao,CUW,42,1,9,-8,0,0,0.0
+Uzbekistan,UZB,46,2,11,-9,0,0,0.0
+Tunisia,TUN,47,2,12,-10,1,4,8.3
+Iraq,IRQ,48,1,12,-11,0,1,0.0
